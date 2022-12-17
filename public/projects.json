@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Lap-Zone", 
+        "images":[
+            "https://i.ibb.co/YPqdh58/lapzone1.png", 
+            "https://i.ibb.co/xqpNmjT/lapzone2.png",
+            "https://i.ibb.co/rvxv5cT/lapzone3.png", 
+            "https://i.ibb.co/FmhCKHx/lapzone4.png"
+        ], 
+        "bulletPoints": [
+            "React Tailwind as a CSS Framework",
+            "As a component Library I used Daisyui",
+            "I used React",
+            "I used react-icons", 
+            "I used vercel for deploy our server",
+            "I used firebae for authentication",
+            "I used context api",
+            "I used react-router-dom",
+            "I used MongoDB as our database",
+            "I used express for make server",
+            "I used React Query",
+            "I used react form",
+            "I used JWT (JesonIbtoken)",
+            "I used Cutom Hook"
+        ], 
+        "id": "1"
+    } , 
+    {
+        "id": "2", 
+        "name": "Green Chilli", 
+        "images":[
+            "https://i.ibb.co/wRBfVN9/greenshilli1.png", 
+            "https://i.ibb.co/wrSq9mS/greenchilli3.png", 
+            "https://i.ibb.co/yqBzCvF/greenchilli4-PNG.png", 
+            "https://i.ibb.co/xmc8vxg/greenchilli5.png"
+
+        ], 
+        "bulletPoints":[
+            "Tailwind css  for fronted", 
+            "As a component Library I used Daisyui",
+            "I used React",
+            "I used react-icons", 
+            "I used vercel for deploy our server",
+            "I used firebae for authentication",
+            "I used context api",
+            "I used react-router-dom",
+            "I used MongoDB as our database",
+            "I used express for make server",
+            "I used React Query",
+            "I used react form",
+            "I used JWT (JesonIbtoken)",
+            "I used Cutom Hook"
+        ]
+    }, 
+    {
+        "name":"Ib master", 
+        "id": "3", 
+        "images": [
+            "https://i.ibb.co/y58sYYv/Capture.png", 
+            "https://i.ibb.co/kBjYJTd/Ibmaster2.png", 
+            "https://i.ibb.co/ZBt2tyV/Ibmaster3.png"
+        ],
+        "bulletPoints":[
+            "React Bootstrap as a CSS Framework",
+            "I used React",
+            "I used react-icons",
+            "I used vercel for deploy our server",
+            "I used firebae for authentication", 
+            "I used context api", 
+            "I used react-router-dom"
+        ]       
+    }
+]

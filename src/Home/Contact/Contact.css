@@ -1,0 +1,39 @@
+#name{
+    padding: 5px 30px 5px 30px ;
+    background-color: white;
+    color: black;
+    /* display: block; */
+    margin-bottom: 20px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+#email{
+    padding: 5px 30px 5px 30px ;
+    background-color: white;
+    color: black;
+    /* display: block; */
+    margin-bottom: 20px;
+    /* margin-top: 40px; */
+    border-radius: 20px;
+}
+#textarea{
+    padding: 5px 30px 5px 30px ;
+    background-color: white;
+    color: black;
+    /* display: block; */
+    margin-bottom: 40px;
+    /* margin-top: 40px; */
+    border-radius: 20px;
+}
+
+/* media queries  */
+@media screen and (max-width: 640px) {
+    #name{
+        padding: 0px ;
+        margin-top: 0px;
+    }
+    #email{
+        padding: 0px ;
+        margin-top: 0px;
+    }
+  }
