@@ -1,10 +1,11 @@
+import { type } from '@testing-library/user-event/dist/type';
 import React, { useEffect, useState } from 'react';
 import { BsFacebook } from 'react-icons/bs';
 import { Link, useLoaderData, useParams } from 'react-router-dom';
 
 const ProjectDetails = () => {
     const {id} = useParams()
-    console.log(id)
+   console.log(typeof(id))
     const [project , setProject] = useState([])
     useEffect( ()=>{
         fetch(`https://portfolio-server-henna.vercel.app/project/${id}`)
